@@ -1,9 +1,10 @@
 body{
-    color: brown;
+    color: rgb(8, 1, 1);
+    background-color: rgba(84, 14, 77, 0.442);
 }
 
 h2{
-    color: blue;
+    color: rgb(75, 75, 110S);
 }
 #para{
     color:yellow}
@@ -13,4 +14,8 @@ h2{
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
+}
+.container {
+    padding-left: 5rem;
+    scroll-padding-right: 3rem;
 }
